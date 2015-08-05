@@ -1,3 +1,4 @@
 /test/
 /golang.org/
 /web/
+*.o 
